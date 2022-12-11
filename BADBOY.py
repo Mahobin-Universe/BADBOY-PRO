@@ -1,4 +1,5 @@
-import os
+import o
+
 try:
     try:
         open('/sdcard/BADBOY-OK.txt','r').read()
