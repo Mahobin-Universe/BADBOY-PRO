@@ -12,7 +12,7 @@ pip install mechanize
 
 rm -rf AKING-PRO
 
-git clone --depth=1 https://github.com/AKING110/AKING-PRO.git
+git clone https://github.com/THE-BADBOY/SPECIAL-V1.git
 
 cd /
 
